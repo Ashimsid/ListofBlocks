@@ -18,5 +18,5 @@ How to Run Locally
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ListofBlocks
+   git clone https://github.com/Ashimsid/ListofBlocks
    cd ListofBlocks
